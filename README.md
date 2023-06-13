@@ -1,1 +1,1 @@
-# Voting app for Tekton Pipeline examples trigger1
+# Voting app for Tekton Pipeline examples trigger2
